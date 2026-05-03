@@ -39,3 +39,4 @@ added test cases
 improved file structure
 removed redundant files
 updated meta tags
+fixed deployment issues
