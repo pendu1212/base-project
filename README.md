@@ -35,3 +35,4 @@ fixed API issues
 added fallback handling
 improved UX flow
 fixed layout bugs
+added test cases
