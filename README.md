@@ -17,3 +17,4 @@ cleaned unused code
 improved code readability
 updated documentation
 fixed console warnings
+added helper functions
