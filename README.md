@@ -91,3 +91,4 @@ fixed session bugs
 updated middleware
 improved file uploads
 added drag and drop feature
+fixed image preview issue
