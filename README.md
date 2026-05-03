@@ -66,4 +66,4 @@ improved authentication flow
 added logout feature
 optimized API calls
 handled edge scenarios
-improved data fetching
+improved daadded loading spinnerta fetching
