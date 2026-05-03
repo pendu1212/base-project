@@ -33,3 +33,4 @@ cleaned console logs
 updated styles
 fixed API issues
 added fallback handling
+improved UX flow
