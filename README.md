@@ -9,3 +9,4 @@ added basic styling
 refactored codebase
 optimized performance
 updated dependencies
+added comments for clarity
