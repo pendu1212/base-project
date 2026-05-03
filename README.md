@@ -54,3 +54,4 @@ initialized new branch
 merged latest changes
 fixed typo errors
 updated UI components
+improved button styles
