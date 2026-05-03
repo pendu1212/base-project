@@ -52,3 +52,4 @@ updated build settings
 final code cleanup
 initialized new branch
 merged latest changes
+fixed typo errors
