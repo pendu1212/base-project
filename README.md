@@ -98,3 +98,4 @@ added import feature
 fixed timezone issues
 improved date handling
 updated analytics tracking
+final polishing and cleanup
