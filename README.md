@@ -59,3 +59,4 @@ added dark mode support
 optimized CSS files
 cleaned project folders
 updated package versions
+improved form UX
