@@ -28,3 +28,4 @@ updated config files
 improved mobile view
 fixed navigation bugs
 added new components
+improved animations
