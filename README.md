@@ -32,3 +32,4 @@ improved animations
 cleaned console logs
 updated styles
 fixed API issues
+added fallback handling
