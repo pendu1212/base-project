@@ -16,3 +16,4 @@ added new feature module
 cleaned unused code
 improved code readability
 updated documentation
+fixed console warnings
