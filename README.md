@@ -8,3 +8,4 @@ improved UI layout
 added basic styling
 refactored codebase
 optimized performance
+updated dependencies
