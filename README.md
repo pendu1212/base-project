@@ -65,3 +65,4 @@ fixed login issue
 improved authentication flow
 added logout feature
 optimized API calls
+handled edge scenarios
