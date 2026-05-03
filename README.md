@@ -4,3 +4,4 @@ initial project setup
 added README file
 updated project structure
 fixed minor bugs
+improved UI layout
