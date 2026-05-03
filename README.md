@@ -56,3 +56,4 @@ fixed typo errors
 updated UI components
 improved button styles
 added dark mode support
+optimized CSS files
