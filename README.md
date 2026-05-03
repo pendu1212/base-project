@@ -25,3 +25,4 @@ added form validation
 improved accessibility
 optimized images
 updated config files
+improved mobile view
