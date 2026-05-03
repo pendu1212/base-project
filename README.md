@@ -26,3 +26,4 @@ improved accessibility
 optimized images
 updated config files
 improved mobile view
+fixed navigation bugs
