@@ -63,3 +63,4 @@ improved form UX
 added input validations
 fixed login issue
 improved authentication flow
+added logout feature
