@@ -22,3 +22,4 @@ improved loading speed
 minor UI adjustments
 fixed alignment issues
 added form validation
+improved accessibility
