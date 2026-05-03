@@ -93,3 +93,4 @@ improved file uploads
 added drag and drop feature
 fixed image preview issue
 optimized storage usage
+improved export functionality
