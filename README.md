@@ -71,3 +71,4 @@ fixed crash on reload
 updated routing logic
 improved dashboard layout
 added notification system
+fixed dropdown bugs
