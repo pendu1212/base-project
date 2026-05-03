@@ -15,3 +15,4 @@ improved error handling
 added new feature module
 cleaned unused code
 improved code readability
+updated documentation
