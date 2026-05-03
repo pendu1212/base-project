@@ -47,3 +47,4 @@ improved caching
 optimized assets
 added loading indicators
 improved routing
+fixed broken links
