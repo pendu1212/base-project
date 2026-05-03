@@ -11,3 +11,4 @@ optimized performance
 updated dependencies
 added comments for clarity
 fixed responsive issues
+improved error handling
