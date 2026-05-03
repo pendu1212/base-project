@@ -31,3 +31,4 @@ added new components
 improved animations
 cleaned console logs
 updated styles
+fixed API issues
