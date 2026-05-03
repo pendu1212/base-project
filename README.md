@@ -76,3 +76,4 @@ improved modal design
 added tooltip support
 optimized rendering
 fixed memory leaks
+improved caching strategy
