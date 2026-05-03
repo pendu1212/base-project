@@ -75,3 +75,4 @@ fixed dropdown bugs
 improved modal design
 added tooltip support
 optimized rendering
+fixed memory leaks
