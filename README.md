@@ -74,3 +74,4 @@ added notification system
 fixed dropdown bugs
 improved modal design
 added tooltip support
+optimized rendering
