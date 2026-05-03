@@ -88,3 +88,4 @@ fixed data sync issue
 added backup handling
 improved security checks
 fixed session bugs
+updated middleware
