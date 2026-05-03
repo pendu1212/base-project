@@ -41,3 +41,4 @@ removed redundant files
 updated meta tags
 fixed deployment issues
 improved state management
+added environment variables
