@@ -97,3 +97,4 @@ improved export functionality
 added import feature
 fixed timezone issues
 improved date handling
+updated analytics tracking
