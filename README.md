@@ -86,3 +86,4 @@ improved table design
 optimized queries
 fixed data sync issue
 added backup handling
+improved security checks
