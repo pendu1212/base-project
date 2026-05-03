@@ -81,3 +81,4 @@ added retry mechanism
 updated error messages
 improved logging system
 fixed scroll issues
+added pagination
