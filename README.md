@@ -29,3 +29,4 @@ improved mobile view
 fixed navigation bugs
 added new components
 improved animations
+cleaned console logs
