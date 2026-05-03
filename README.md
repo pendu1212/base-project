@@ -42,3 +42,4 @@ updated meta tags
 fixed deployment issues
 improved state management
 added environment variables
+fixed edge cases
