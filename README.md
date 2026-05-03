@@ -90,3 +90,4 @@ improved security checks
 fixed session bugs
 updated middleware
 improved file uploads
+added drag and drop feature
