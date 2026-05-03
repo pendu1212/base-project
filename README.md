@@ -46,3 +46,4 @@ fixed edge cases
 improved caching
 optimized assets
 added loading indicators
+improved routing
