@@ -36,3 +36,4 @@ added fallback handling
 improved UX flow
 fixed layout bugs
 added test cases
+improved file structure
