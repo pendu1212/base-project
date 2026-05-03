@@ -13,3 +13,4 @@ added comments for clarity
 fixed responsive issues
 improved error handling
 added new feature module
+cleaned unused code
