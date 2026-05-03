@@ -84,3 +84,4 @@ fixed scroll issues
 added pagination
 improved table design
 optimized queries
+fixed data sync issue
