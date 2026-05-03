@@ -68,3 +68,4 @@ optimized API calls
 handled edge scenarios
 improved daadded loading spinnerta fetching
 fixed crash on reload
+updated routing logic
