@@ -37,3 +37,4 @@ improved UX flow
 fixed layout bugs
 added test cases
 improved file structure
+removed redundant files
