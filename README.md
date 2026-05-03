@@ -89,3 +89,4 @@ added backup handling
 improved security checks
 fixed session bugs
 updated middleware
+improved file uploads
