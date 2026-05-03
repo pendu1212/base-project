@@ -7,3 +7,4 @@ fixed minor bugs
 improved UI layout
 added basic styling
 refactored codebase
+optimized performance
