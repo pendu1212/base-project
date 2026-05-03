@@ -43,3 +43,4 @@ fixed deployment issues
 improved state management
 added environment variables
 fixed edge cases
+improved caching
